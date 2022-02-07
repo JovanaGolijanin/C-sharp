@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cd5060a7-724f-46e4-b374-be4c15dd099e": {
+      "ProjectGuid": "cd5060a7-724f-46e4-b374-be4c15dd099e",
+      "DisplayName": "Lab4_Zad1",
+      "ColorIndex": 0
+    },
+    "2f67eccb-1618-4de2-8780-d6177cee51f6": {
+      "ProjectGuid": "2f67eccb-1618-4de2-8780-d6177cee51f6",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "bac8b07f-d5a4-4407-af11-8f63c118e34d": {
+      "ProjectGuid": "bac8b07f-d5a4-4407-af11-8f63c118e34d",
+      "DisplayName": "StanjeVozila",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

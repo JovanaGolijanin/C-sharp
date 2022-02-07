@@ -1,0 +1,8 @@
+D:\PJ_C#_projekti\Lab4\Lab4_Zad1\Lab4_Zad1\bin\Debug\Lab4_Zad1.exe.config
+D:\PJ_C#_projekti\Lab4\Lab4_Zad1\Lab4_Zad1\bin\Debug\Lab4_Zad1.exe
+D:\PJ_C#_projekti\Lab4\Lab4_Zad1\Lab4_Zad1\bin\Debug\Lab4_Zad1.pdb
+D:\PJ_C#_projekti\Lab4\Lab4_Zad1\Lab4_Zad1\obj\Debug\Lab4_Zad1.csproj.AssemblyReference.cache
+D:\PJ_C#_projekti\Lab4\Lab4_Zad1\Lab4_Zad1\obj\Debug\Lab4_Zad1.csproj.SuggestedBindingRedirects.cache
+D:\PJ_C#_projekti\Lab4\Lab4_Zad1\Lab4_Zad1\obj\Debug\Lab4_Zad1.csproj.CoreCompileInputs.cache
+D:\PJ_C#_projekti\Lab4\Lab4_Zad1\Lab4_Zad1\obj\Debug\Lab4_Zad1.exe
+D:\PJ_C#_projekti\Lab4\Lab4_Zad1\Lab4_Zad1\obj\Debug\Lab4_Zad1.pdb

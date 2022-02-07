@@ -1,8 +1,0 @@
-D:\C#\Lab4\Lab4_Zad2\Lab4_Zad2\Lab4_Zad2\bin\Debug\Lab4_Zad2.exe.config
-D:\C#\Lab4\Lab4_Zad2\Lab4_Zad2\Lab4_Zad2\bin\Debug\Lab4_Zad2.exe
-D:\C#\Lab4\Lab4_Zad2\Lab4_Zad2\Lab4_Zad2\bin\Debug\Lab4_Zad2.pdb
-D:\C#\Lab4\Lab4_Zad2\Lab4_Zad2\Lab4_Zad2\obj\Debug\Lab4_Zad2.csproj.AssemblyReference.cache
-D:\C#\Lab4\Lab4_Zad2\Lab4_Zad2\Lab4_Zad2\obj\Debug\Lab4_Zad2.csproj.SuggestedBindingRedirects.cache
-D:\C#\Lab4\Lab4_Zad2\Lab4_Zad2\Lab4_Zad2\obj\Debug\Lab4_Zad2.csproj.CoreCompileInputs.cache
-D:\C#\Lab4\Lab4_Zad2\Lab4_Zad2\Lab4_Zad2\obj\Debug\Lab4_Zad2.exe
-D:\C#\Lab4\Lab4_Zad2\Lab4_Zad2\Lab4_Zad2\obj\Debug\Lab4_Zad2.pdb
